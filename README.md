@@ -1,4 +1,4 @@
 # chocolatey  
-##¿Qué es Chocolatey?  
-##Instalación de chocolatey  
-##Ejemplos
+## 1.[¿Qué es Chocolatey?]  
+## 2.[Instalación de chocolatey]  
+## 3.[Ejemplos]
